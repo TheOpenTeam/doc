@@ -1,4 +1,5 @@
 - [首页](/)
 - **mcproto**
   - [概述](mcproto/README)
+  - [测试](mcproto/测试)
   - [基础](mcproto/基础)
